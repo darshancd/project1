@@ -1,5 +1,8 @@
 #include<stdio.h>
 void big2()
+	
+	
+	\\bbb
 {
 	int a, b, big;
 	printf("Enter two number : ");
